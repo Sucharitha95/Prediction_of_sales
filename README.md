@@ -2,7 +2,7 @@
 This project helps to predict the sales using different machine learning algorithms
 
 <h4><b>Requirements</b></h4>
-1.Jupyter notebook
+1.Jupyter notebook<br>
 2.Installation of all libraries and Modules into Jupyter notebook
 
 <h4><b>Procedure of running the project</b></h4>
